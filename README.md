@@ -25,4 +25,4 @@ Creating an interactive HR Management dashboard from scratch using Excel's Power
 - Are there any areas where we may need to invest more in training and development?
 
 5. Finish products:
-- Dashboard (.PNG and .xlsl file)
+- Dashboard (.PNG and .xlsx file)
